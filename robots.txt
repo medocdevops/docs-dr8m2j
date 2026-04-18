@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-h5uaay.cluster.world/sitemap.xml
